@@ -1,14 +1,15 @@
 # 404  File upload Bypass
 
-Blacklisting Bypass
+# Blacklisting Bypass
 PHP → .php, .php2, .php3, .php4, .php5, .php6, .php7, .phps, .phps, .pht, .phtm, .phtml, .pgif, .shtml, .htaccess, .phar, .inc, .hphp, .ctp, .module
 ASP → .asp, .aspx, .config, .ashx, .asmx, .aspq, .axd, .cshtm, .cshtml, .rem, .soap, .vbhtm, .vbhtml, .asa, .cer, .shtml
 Jsp → .jsp, .jspx, .jsw, .jsv, .jspf
 Coldfusion → .cfm, .cfml, .cfc, .dbm
 Perl → .pl, .cgi
-Using random capitalization → .pHp, .pHP5, .PhAr
+# Using random capitalization → .pHp, .pHP5, .PhAr
 
-Whitelisting Bypass
+
+# Whitelisting Bypass
 file.png.php
 file.png.Php5
 file.php%20
