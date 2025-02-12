@@ -12,7 +12,7 @@ Perl → .pl, .cgi
 
 
 
-Bypass file upload on xiaomi With this method
+Bypass file upload With this method
 .extentions./%00.png
 Example :
 .php.%00.png
